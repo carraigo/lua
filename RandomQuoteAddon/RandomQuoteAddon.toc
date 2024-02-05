@@ -1,0 +1,7 @@
+## Interface: 11403
+## Title: RandomQuoteAddon
+## Notes: Prints Bobby B quotes to the chat on /say channel.
+## Author: Craig McKay
+## Version: 1.0.0
+
+RandomQuoteAddon.lua
